@@ -1,8 +1,8 @@
-#This script is part of supplementary documents of "XXX"
-#submitted to Frontiers in Microbiology, section XXX
-#Manuscript ID: XXX
-#Authors:  Paula L. C. Fonseca, Ruth B. De-Paula, Daniel S. Araújo, Luiz Marcelo Ribeiro Tomé, Thairine Mendes-Pereira, Wenderson Felipe Costa Rodrigues, 
-#Luiz-Eduardo Del-Bem, Eric R. G. R. Aguiar, and Aristóteles Góes-Neto
+#This script is part of supplementary documents of "Global Characterization of Fungal Mitogenomes: New Insights on Genomic Diversity and Dynamism of Coding Genes and Accessory Elements"
+#submitted to Frontiers in Microbiology, research topic "Mitochondrial Genomes and Mitochondrion Related Gene Insights to Fungal Evolution"
+#DOI: 10.3389/fmicb.2021.787283
+#Authors:  Paula L. C. Fonseca, Ruth B. De-Paula, Daniel S. Araújo, Luiz Marcelo R. Tomé, Thairine Mendes-Pereira, Wenderson F. Rodrigues, 
+#Luiz-Eduardo Del-Bem, Eric R. Aguiar, and Aristóteles Góes-Neto
 #External help: Dener Eduardo Bortolini
 
 #This script uses the output file of Mfannot to list and save uORFs of a target species. This is a slightly modified version of another script
