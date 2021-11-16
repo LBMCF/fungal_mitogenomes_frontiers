@@ -1,8 +1,8 @@
-#This script is part of supplementary documents of "XXX"
-#submitted to Frontiers in Microbiology, section XXX
-#Manuscript ID: XXX
-#Authors:  Paula L. C. Fonseca, Ruth B. De-Paula, Daniel S. Araújo, Luiz Marcelo Ribeiro Tomé, Thairine Mendes-Pereira, Wenderson Felipe Costa Rodrigues, 
-#Luiz-Eduardo Del-Bem, Eric R. G. R. Aguiar, and Aristóteles Góes-Neto
+#This script is part of supplementary documents of "Global Characterization of Fungal Mitogenomes: New Insights on Genomic Diversity and Dynamism of Coding Genes and Accessory Elements"
+#submitted to Frontiers in Microbiology, research topic "Mitochondrial Genomes and Mitochondrion Related Gene Insights to Fungal Evolution"
+#DOI: 10.3389/fmicb.2021.787283
+#Authors:  Paula L. C. Fonseca, Ruth B. De-Paula, Daniel S. Araújo, Luiz Marcelo R. Tomé, Thairine Mendes-Pereira, Wenderson F. Rodrigues, 
+#Luiz-Eduardo Del-Bem, Eric R. Aguiar, and Aristóteles Góes-Neto
 
 #Bash script that uses mfannot files(.tbl) to generate 8 output files: one containing the number of features per category (uorfs, introns, HEs/HEGs, core genes, 
 #trna, dpo+rpo+rps3) (_counts_final); six containing the coordinates and sizes for each feature in each category (_coords_size_ok); and one that contains all _coords_size_ok files together
