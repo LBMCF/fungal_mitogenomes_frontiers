@@ -1,11 +1,11 @@
-#This script is part of supplementary documents of "XXX"
-#submitted to Frontiers in Microbiology, section XXX
-#Manuscript ID: XXX
-#Authors:  Paula L. C. Fonseca, Ruth B. De-Paula, Daniel S. Araújo, Luiz Marcelo Ribeiro Tomé, Thairine Mendes-Pereira, Wenderson Felipe Costa Rodrigues, 
-#Luiz-Eduardo Del-Bem, Eric R. G. R. Aguiar, and Aristóteles Góes-Neto
+#This script is part of supplementary documents of "Global Characterization of Fungal Mitogenomes: New Insights on Genomic Diversity and Dynamism of Coding Genes and Accessory Elements"
+#submitted to Frontiers in Microbiology, research topic "Mitochondrial Genomes and Mitochondrion Related Gene Insights to Fungal Evolution"
+#DOI: 10.3389/fmicb.2021.787283
+#Authors:  Paula L. C. Fonseca, Ruth B. De-Paula, Daniel S. Araújo, Luiz Marcelo R. Tomé, Thairine Mendes-Pereira, Wenderson F. Rodrigues, 
+#Luiz-Eduardo Del-Bem, Eric R. Aguiar, and Aristóteles Góes-Neto
 #External help: Luciano Branco
 
-#This script correctly calculates the genic/coding region of each mitogenome studied, already discounting the lengths of two features that spatially overlap.
+#This script correctly calculates the total genic/coding region length of each mitogenome studied, already discounting the lengths of two features that spatially overlap.
 #The files used are as follow: 
 # Create a new folder named "input_folder" and add to this folder all the files containing genomic coordinates of features (formatted like .bed file).
 
